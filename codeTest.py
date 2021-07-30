@@ -299,7 +299,7 @@ if __name__ == '__main__':
                 print ("No results")
         
         # print('You Said:- ',query)
-        # speak(f'You Said:- {query}')                          # Testing Purpose.
+        # speak(f'You Said:- {query}')                         # Testing Purpose.
         # speak('You Said:- ',query)
         JenniferRuntime = False
         
