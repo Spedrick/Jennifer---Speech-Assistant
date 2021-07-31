@@ -78,8 +78,8 @@ if __name__ == '__main__':
     clear = lambda: os.system('cls')
     clear() 
 
-    # wishMe() 
-    # usrname() 
+    # wishMe()
+    # usrname()
     
     JenniferRuntime = True
     while JenniferRuntime:
