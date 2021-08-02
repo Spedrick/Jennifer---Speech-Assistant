@@ -1,5 +1,4 @@
 #Personal Assisstant Project
-import wolframalpha 
 import pyttsx3  
 import speech_recognition as sr 
 import datetime 
@@ -11,6 +10,7 @@ import ctypes
 import time 
 import subprocess
 import winshell
+import wolframalpha 
 from tkinter import *
 
 
