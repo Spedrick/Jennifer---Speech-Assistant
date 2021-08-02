@@ -68,12 +68,6 @@ def takeCommand():
     return query 
 
 if __name__ == '__main__':
-    # root = Tk()
-    # w = Label(root, text='GeeksForGeeks.org! just this a code test for wht to say but to check whether the window is dynamic or not \n And from here whether the height is increasing or not!!!')
-    # w.pack()
-    # root.mainloop()
-
-    # exit()
 
     clear = lambda: os.system('cls')
     clear() 
